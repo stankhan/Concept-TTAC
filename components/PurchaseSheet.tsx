@@ -36,7 +36,7 @@ const PurchaseSheet: React.FC<Props> = ({ onClose, onAddCard, addedCards, onComp
         <div className="border-t border-b border-gray-100 py-4 mb-4">
           <div className="flex justify-between items-center mb-2">
             <span className="text-gray-600 text-xs tracking-wide">PRICE</span>
-            <span className="font-semibold text-sm">$4.99</span>
+            <span className="font-semibold text-sm">$9.99</span>
           </div>
           <div className="flex justify-between items-center">
             <span className="text-gray-600 text-xs tracking-wide">TAX</span>

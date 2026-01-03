@@ -58,13 +58,13 @@ const SuccessScreen: React.FC<Props> = ({ onRestart, onVerifyCard }) => {
                   <p className="text-[10px] text-gray-500 italic">One-time purchase</p>
                 </div>
               </div>
-              <span className="font-semibold text-sm">$4.99</span>
+              <span className="font-semibold text-sm">$9.99</span>
             </div>
 
             <div className="pt-4 space-y-2">
               <div className="flex justify-between text-xs text-gray-500">
                 <span>Subtotal</span>
-                <span>$4.99</span>
+                <span>$9.99</span>
               </div>
               <div className="flex justify-between text-xs text-gray-500">
                 <span>Tax</span>
@@ -72,7 +72,7 @@ const SuccessScreen: React.FC<Props> = ({ onRestart, onVerifyCard }) => {
               </div>
               <div className="flex justify-between text-base font-bold text-gray-900 pt-2 border-t border-dashed border-gray-300">
                 <span>Total Paid</span>
-                <span className="text-green-600">$4.99</span>
+                <span className="text-green-600">$9.99</span>
               </div>
             </div>
           </div>

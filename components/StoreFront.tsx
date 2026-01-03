@@ -41,7 +41,7 @@ const StoreFront: React.FC<Props> = ({ onPurchase }) => {
           onClick={onPurchase}
           className="w-full bg-green-700 hover:bg-green-800 text-white font-semibold py-4 rounded-full transition-all active:scale-95 shadow-lg"
         >
-          Buy for $4.99
+          Buy for $9.99
         </button>
       </div>
     </div>
