@@ -1,0 +1,7 @@
+{
+  "name": "Tap to Tokenize V1",
+  "description": "this is the first complete version with Pull and Tap-to-add",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
